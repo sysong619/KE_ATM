@@ -14,11 +14,11 @@ This directory contains post-processing netcdf files.
 
 Generates Figures 1 to 6 used in the main text:
 
-- `Figure01.ipynb`
-- `Figure02.ipynb`
-- `Figure03.ipynb`
-- `Figure04_05.ipynb`
-- `Figure06.ipynb`
+- `Figure01.py`
+- `Figure02.py`
+- `Figure03.py`
+- `Figure04_05.py`
+- `Figure06.py`
 
 ---
 
