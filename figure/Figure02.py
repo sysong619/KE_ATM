@@ -6,7 +6,6 @@ import sacpy as scp
 import re, os, sys, glob
 sys.path.append('../library')
 from cbasic import *
-from linrm  import *
 from cdata  import *
 from cplot  import *
 
