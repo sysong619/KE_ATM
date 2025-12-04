@@ -17,7 +17,8 @@ Generates Figures 1 to 6 used in the main text:
 - `Figure01.py`
 - `Figure02.py`
 - `Figure03.py`
-- `Figure04_05.py`
+- `Figure04.py`
+- `Figure05.py`
 - `Figure06.py`
 
 ---
